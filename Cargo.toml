@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "jdwp_lib", "jdwp_print_val",
+    "jdwp_stack_trace",
+]

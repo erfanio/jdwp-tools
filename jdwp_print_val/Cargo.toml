@@ -1,0 +1,8 @@
+[package]
+name = "jdwp_print_val"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+jdwp_lib = { path = "../jdwp_lib" }
+clap = { version = "4.0", features = ["derive"] }
